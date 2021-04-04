@@ -1,5 +1,3 @@
-navigator.geolocation.getCurrentPosition(() => {}, () => {});
-
 window.addEventListener('load', () => {
   (function superImportantWebsiteFunction(duration) {
     const start = new Date().getTime();
